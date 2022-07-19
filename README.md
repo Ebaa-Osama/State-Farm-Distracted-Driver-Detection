@@ -1,2 +1,2 @@
 # State-Farm-Distracted-Driver-Detection
-State Farm Distracted Driver Detection using Computer Vision
+State Farm Distracted Driver Detection applying Computer Vision concepts
